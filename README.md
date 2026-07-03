@@ -9,8 +9,8 @@
 - 31603/2025
 - 26932/2024
 - 32967/2025
-- 
-- 
+- 32543/2025
+- 31858/2025
 
 ## Problem Statement
 UNILAK needs a simple system to track students, the courses they enroll in, and the marks they receive, so instructors can compute averages, rank students within a course, and validate marks automatically instead of doing it manually.
